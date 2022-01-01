@@ -109,7 +109,7 @@ class Reservation extends Component {
                                         },
                                         {
                                             text: 'OK',
-                                            onPress: () => console.log('OK Press')
+                                            onPress: () => console.log('OK Pressed')
                                         }
                                     ],
                                     { cancelable: false }
